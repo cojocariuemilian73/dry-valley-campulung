@@ -28,7 +28,7 @@
           "nume": "Pizza Gigant · 50 × 50 cm",
           "descriere": "Aproximativ 2 kg. Poți combina două sortimente. Două sosuri incluse.",
           "pret": null,
-          "imagine": "pizza"
+          "imagine": "pizza-gigant"
         }
       ]
     },
@@ -39,12 +39,14 @@
         {
           "nume": "Pui, porumb și ciuperci",
           "descriere": "Sortiment prezentat ca jumătate de Pizza Gigant.",
-          "pret": null
+          "pret": null,
+          "imagine": "pizza-pui"
         },
         {
           "nume": "Pizza Casei",
           "descriere": "Șuncă, salam, cârnăciori, măsline și ciuperci.",
-          "pret": null
+          "pret": null,
+          "imagine": "pizza-casei"
         }
       ]
     }
@@ -69,6 +71,26 @@
     {
       "nume": "Pexels 4",
       "url": "https://www.pexels.com/photo/16131605/"
+    },
+    {
+      "nume": "Sarah Stierch · Pizza pătrată cu mozzarella și busuioc (decupată)",
+      "url": "https://commons.wikimedia.org/wiki/File:PizzaLeah_-_2021-10-23_-_Sarah_Stierch_05.jpg"
+    },
+    {
+      "nume": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "nume": "Ser Amantio di Nicolao · Pizza cu pui, legume și brânză (decupată)",
+      "url": "https://commons.wikimedia.org/wiki/File:8-inch_Spring_Chicken_pizza_from_Ledo_Pizza.jpg"
+    },
+    {
+      "nume": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "nume": "Pexels · Pizza cu șuncă și ciuperci",
+      "url": "https://www.pexels.com/photo/12288354/"
     }
   ],
   "imagini": {
@@ -109,10 +131,48 @@
       "inaltime": 760,
       "alt": "Sală de restaurant cu fereastră arcuită, fotografie ilustrativă",
       "ilustrativa": true
+    },
+    "pizza-gigant": {
+      "fisier": "pizza-gigant.webp",
+      "latime": 1040,
+      "inaltime": 1040,
+      "alt": "Pizza pătrată cu mozzarella și busuioc",
+      "ilustrativa": true
+    },
+    "pizza-pui": {
+      "fisier": "pizza-pui.webp",
+      "latime": 720,
+      "inaltime": 720,
+      "alt": "Pizza cu pui, legume și brânză",
+      "ilustrativa": true
+    },
+    "pizza-casei": {
+      "fisier": "pizza-casei.webp",
+      "latime": 1040,
+      "inaltime": 1040,
+      "alt": "Pizza cu șuncă și ciuperci",
+      "ilustrativa": true
     }
   },
   "extra": {
-    "activ": false
+    "activ": true,
+    "sectiuni": [
+      "specialitati"
+    ],
+    "specialitati": {
+      "titlu": "Specialități",
+      "text": "Pizza Gigant și cele două sortimente prezentate de restaurant.",
+      "produse": [
+        "Pizza Gigant · 50 × 50 cm",
+        "Pui, porumb și ciuperci",
+        "Pizza Casei"
+      ],
+      "tente": {
+        "Pizza Gigant · 50 × 50 cm": "#cd9c64",
+        "Pui, porumb și ciuperci": "#b9c181",
+        "Pizza Casei": "#db8d6c"
+      }
+    }
   },
   "locatii": [
     {
