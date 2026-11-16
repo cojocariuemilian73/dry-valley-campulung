@@ -1,0 +1,183 @@
+{
+  "brand": "Dry Valley",
+  "description": "Dry Valley, restaurantul pensiunilor Casa Burduhos. Pizza Gigant cu două sortimente, pe Strada Valea Seacă 5 din Câmpulung Moldovenesc.",
+  "publicUrl": "https://cojocariuemilian73.github.io/dry-valley-campulung/",
+  "atelier": "",
+  "deschidere": "",
+  "linkuri": {
+    "recenzii": "",
+    "harta": "",
+    "instagram": "",
+    "facebook": "",
+    "email": "",
+    "whatsapp": "",
+    "scrieRecenzie": ""
+  },
+  "video": {
+    "youtube": "",
+    "titlu": "",
+    "credit": ""
+  },
+  "meniuExemplu": true,
+  "meniu": [
+    {
+      "id": "pizza-gigant",
+      "nume": "Pizza Gigant",
+      "produse": [
+        {
+          "nume": "Pizza Gigant · 50 × 50 cm",
+          "descriere": "Aproximativ 2 kg. Poți combina două sortimente. Două sosuri incluse.",
+          "pret": null,
+          "imagine": "pizza"
+        }
+      ]
+    },
+    {
+      "id": "sortimente",
+      "nume": "Sortimente publicate",
+      "produse": [
+        {
+          "nume": "Pui, porumb și ciuperci",
+          "descriere": "Sortiment prezentat ca jumătate de Pizza Gigant.",
+          "pret": null
+        },
+        {
+          "nume": "Pizza Casei",
+          "descriere": "Șuncă, salam, cârnăciori, măsline și ciuperci.",
+          "pret": null
+        }
+      ]
+    }
+  ],
+  "evaluareGoogle": {},
+  "recenzii": [],
+  "fotografiiIlustrative": true,
+  "eticheteIlustrative": false,
+  "surseFoto": [
+    {
+      "nume": "Pexels 1",
+      "url": "https://www.pexels.com/photo/12228097/"
+    },
+    {
+      "nume": "Pexels 2",
+      "url": "https://www.pexels.com/photo/30457533/"
+    },
+    {
+      "nume": "Pexels 3",
+      "url": "https://www.pexels.com/photo/10313199/"
+    },
+    {
+      "nume": "Pexels 4",
+      "url": "https://www.pexels.com/photo/16131605/"
+    }
+  ],
+  "imagini": {
+    "share": {
+      "fisier": "share.jpg",
+      "latime": 1200,
+      "inaltime": 630,
+      "alt": "Două pizza pe o masă de restaurant",
+      "ilustrativa": true
+    },
+    "hero": {
+      "fisier": "hero.webp",
+      "latime": 1800,
+      "inaltime": 1080,
+      "alt": "Două pizza pe o masă de restaurant",
+      "ilustrativa": true,
+      "mobil": "hero-mobil.webp",
+      "latimeMobil": 780,
+      "inaltimeMobil": 1040
+    },
+    "table": {
+      "fisier": "table.webp",
+      "latime": 1024,
+      "inaltime": 760,
+      "alt": "Interior rustic de restaurant, fotografie ilustrativă",
+      "ilustrativa": true
+    },
+    "pizza": {
+      "fisier": "pizza.webp",
+      "latime": 1024,
+      "inaltime": 760,
+      "alt": "Pizza servită pe o masă de lemn",
+      "ilustrativa": true
+    },
+    "detail": {
+      "fisier": "detail.webp",
+      "latime": 1024,
+      "inaltime": 760,
+      "alt": "Sală de restaurant cu fereastră arcuită, fotografie ilustrativă",
+      "ilustrativa": true
+    }
+  },
+  "extra": {
+    "activ": false
+  },
+  "locatii": [
+    {
+      "oras": "Câmpulung Moldovenesc",
+      "judet": "Suceava",
+      "adresa": "Strada Valea Seacă 5",
+      "telefon": "+40 738 286 666",
+      "cautareHarta": "Strada Valea Seacă 5, Câmpulung Moldovenesc",
+      "reper": "Casa Burduhos",
+      "program": [],
+      "latitudine": null,
+      "longitudine": null
+    }
+  ],
+  "texte": {
+    "titluPagina": "Dry Valley · Restaurant în Câmpulung Moldovenesc",
+    "logo": {
+      "mare": "Dry Valley",
+      "mic": "CASA BURDUHOS"
+    },
+    "hero": "Pizza de 50 × 50 cm,|cu două sortimente.",
+    "heroCuvinteAurii": [],
+    "navGalerie": "Galerie",
+    "poveste": {
+      "titlu": "",
+      "lead": "",
+      "text": "",
+      "imagineMare": "table",
+      "imagineMica": "pizza"
+    },
+    "galerie": {
+      "titlu": "Două jumătăți,|o masă întreagă.",
+      "text": "Combină puiul cu porumb și ciuperci cu Pizza Casei. Pizza Gigant vine cu două sosuri și se poate cere și pentru livrare.",
+      "imagini": [
+        "table",
+        "pizza",
+        "detail"
+      ]
+    },
+    "meniu": "Meniu",
+    "recenzii": "Recenzii",
+    "locatii": "Unde ne găsești.",
+    "subsol": "Restaurant în Câmpulung Moldovenesc.",
+    "paginaMeniu": {
+      "titlu": "Meniu · Dry Valley",
+      "descriere": "Dry Valley, restaurantul pensiunilor Casa Burduhos. Pizza Gigant cu două sortimente, pe Strada Valea Seacă 5 din Câmpulung Moldovenesc.",
+      "linkPoveste": "Înapoi la site",
+      "imagine": "hero"
+    }
+  },
+  "folderImagini": "assets/img/restaurant/",
+  "filtre": [],
+  "_sursaMeniu": {
+    "valabilitate": "De confirmat cu restaurantul",
+    "surse": [
+      [
+        "Pizza Gigant și contact",
+        "https://www.restaurants10.com/RO/C%C3%A2mpulung-Moldovenesc/107871751480113/Dry-Valley-Casa-Burduhos"
+      ]
+    ]
+  },
+  "comenzi": {},
+  "tema": {
+    "css": "assets/css/tema-site.css",
+    "culoare": "#f4f0e5",
+    "schema": "only light"
+  }
+}
